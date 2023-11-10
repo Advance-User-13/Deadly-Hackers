@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deadly-Hackers
+- 👋 Hi, I’m Monojit Sharna
 - 👀 I’m interested in Cyber Security & Technologies
 - 🌱 I’m currently learning Digital Forensics
 - 📫 How to reach me Hackeralitasen@gmail.com
